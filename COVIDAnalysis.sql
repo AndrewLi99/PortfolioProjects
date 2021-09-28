@@ -1,3 +1,7 @@
+--Project dealing with COVID-19 effects
+
+
+
 select *
 from PortfolioProject..CovidDeaths
 order by 3,4
