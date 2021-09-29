@@ -1,14 +1,10 @@
 --Project dealing with COVID-19 effects
 
 
-
+--Starting with some simple data
 select *
 from PortfolioProject..CovidDeaths
 order by 3,4
-
---select *
---from PortfolioProject..CovidVaccinations
---order by 3,4
 
 --Select Data to use
 
